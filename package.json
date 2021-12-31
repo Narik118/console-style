@@ -1,0 +1,23 @@
+{
+  "name": "console-style",
+  "version": "1.0.0",
+  "description": "Style your console.log's with CSS, images etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narik118/console-style.git"
+  },
+  "keywords": [
+    "console.log",
+    "style"
+  ],
+  "author": "Narik118",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narik118/console-style/issues"
+  },
+  "homepage": "https://github.com/Narik118/console-style#readme"
+}
